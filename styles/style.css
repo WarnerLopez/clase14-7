@@ -1,0 +1,23 @@
+@font-face {
+    font-family: myfirstfont;
+    src: url("../font/Starjedi.ttf");
+}
+
+.container{
+    display: flex;
+    padding-left: 50px;
+    padding-right: 50px;
+    width: 100%;
+    flex-direction: row;
+    padding-top: 50px;
+    
+
+}
+
+
+.data {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
